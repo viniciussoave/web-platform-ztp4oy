@@ -1,0 +1,17 @@
+body {
+  background: gainsboro;
+}
+
+.tabela{
+  border: solid 1px black;
+  border-radius: 10px;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  table,
+tr,
+th {
+  border: 1px solid black;
+  padding: 3px;
+}
